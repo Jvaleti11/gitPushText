@@ -8,3 +8,4 @@
   else
   echo "not merged and pushed"
   fi
+echo "working"
